@@ -1,0 +1,6 @@
+@Portfolio_API_with_dotnet_HostAddress = http://localhost:5020
+
+GET {{Portfolio_API_with_dotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
